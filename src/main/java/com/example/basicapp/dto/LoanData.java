@@ -1,4 +1,4 @@
-package com.example.basicapp;
+package com.example.basicapp.dto;
 
 import java.io.Serializable;
 
